@@ -172,7 +172,6 @@ span {
   gap: 2.5rem;
   padding: 7rem 3rem;
   justify-items: center;
-  
 }
 
 .about-img {
@@ -560,7 +559,7 @@ span {
 .services-box h3 {
   font-size: 20px;
   margin-bottom: 50px; /* Jarak lebih besar antara h3 dan list */
- 
+
   text-align: center; /* Menempatkan judul di tengah */
 }
 
@@ -592,7 +591,6 @@ span {
   background-color: #333; /* Ubah background saat di-hover */
   color: #fff; /* Ubah warna teks saat di-hover */
 }
-
 
 #alert-box {
   display: none;
